@@ -1,7 +1,7 @@
 # Super-Mario-128
 <img width="245" height="206" alt="images (3)" src="https://github.com/user-attachments/assets/46be59f9-f32c-429b-84ac-60958b869a67" />
 
-# Notice: This project is kind of getting laid on the backburner, in comparison to other projects I'm working on, so this may take a long time or may never be finished.
+# Notice: This project is kind of getting laid on the backburner, in comparison to other projects I'm working on, so it is suspended until further notice.
 
 This is a page for a project that I will be starting.
 
